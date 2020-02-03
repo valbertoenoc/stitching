@@ -16,6 +16,8 @@ The will run the script taking the following images as input:
 
 <a href="https://github.com/valbertoenoc/stitching/blob/master/images/city/city3.jpg"><img src="https://github.com/valbertoenoc/stitching/blob/master/images/city/city3.jpg" align="left" width=128></a>
 
+<br>
+<br>
 
 And yield the following result. 
 
